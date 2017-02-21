@@ -3,7 +3,7 @@ Basic template to quickly kick off a new project
 
 ```bash
 # build the binary
-go build bin/server
+go build -o bin/server
 
 # run in dev: log-level defaults to debug and logging to stdout
 ./bin/server
