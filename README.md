@@ -9,7 +9,7 @@ go build bin/server
 ./bin/server
 
 # run in production
-./bin/server --log-level=warn --log-file="/var/log/server.log
+./bin/server --log-level=warn --log-file="/var/log/server.log"
 ```
 
 Uses:
