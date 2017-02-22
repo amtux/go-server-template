@@ -1,6 +1,14 @@
 # go-server-template
 Basic template to quickly kick off a new project
 
+**Make it go**
+```bash
+make clean #delete bin/ directory
+make build #install dependencies and build
+make run-dev #run with dev configuration
+```
+
+**Run straight-up**:
 ```bash
 # build the binary
 go build -o bin/server
