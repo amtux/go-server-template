@@ -10,7 +10,7 @@ clean:
 build: deps
 	go build -o bin/server
 
-run-dev: build
+run-dev:
 	./bin/server
 
 .PHONY: \
