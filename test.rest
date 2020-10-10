@@ -8,3 +8,9 @@ GET http://localhost:8080/hello/amtux
 GET http://localhost:8080/hello/test
 
 ###
+
+
+
+GET http://localhost:8080/hello/one
+
+###
